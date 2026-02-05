@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 About Me
+🌐 **Portfolio Website:** [anastaschoudra.com](https://anastaschoudra.com)
 ## 🧠 Background
 ![Psychology](https://img.shields.io/badge/Psychology-BSc-00bfff?style=plastic&logo=brain&logoColor=white), ![Neuroscience](https://img.shields.io/badge/Neuroscience-MSc-9932cc?style=plastic&logo=microsoft-academic&logoColor=white), and a growing folder of side-projects that mix the two with ![Python](https://img.shields.io/badge/Python-3.x-3776ab?style=flat-square&logo=python&logoColor=ffdd54). I like turning raw biological data into something a model can chew on—mostly for fun, always for learning.
 
@@ -28,8 +29,8 @@ Here are some ideas to get you started:
 I’m working toward solid hands-on experience with brain–computer interfaces. That means:
 - Deepening my grasp of real-time EEG/MEG preprocessing, artifact rejection and feature extraction
 - Experimenting with different neural architectures (CNN, RNN, transformer) to decode oscillatory or evoked signals into clean control commands
-- Building closed-loop prototypes—think spellers, simple robotic arms, or neuro-feedback games—that run offline first, then live on edge devices (Raspberry Pi + GPU hat or Jetson Nano)
-Long-term, I’d love to contribute open-source tools that lower the barrier for researchers who want reliable, affordable BCI pipelines without reinventing the wheel.
+- Investigating how neural dynamics relate to perception and decision-making by combining computational modelling with electrophysiological signal analysis
+
 
 ## Contact
-If you’re into neuro-data, Kaggle nonsense, or want to roast my code, open an issue or ping me on [LinkedIn](https://www.linkedin.com/in/anastas-choudra-1b1990189/).
+If you’re into neuro-data, ping me on [LinkedIn](https://www.linkedin.com/in/anastas-choudra-1b1990189/).
