@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 About Me
-🌐 **Portfolio Website:** [anastaschoudra.com](https://www.anastaschoudra.com)
+🌐 **Portfolio Website:** [anastaschoudra.com](https://anastaschoudra.com)
 ## 🧠 Background
 ![Psychology](https://img.shields.io/badge/Psychology-BSc-00bfff?style=plastic&logo=brain&logoColor=white), ![Neuroscience](https://img.shields.io/badge/Neuroscience-MSc-9932cc?style=plastic&logo=microsoft-academic&logoColor=white), and a growing folder of side-projects that mix the two with ![Python](https://img.shields.io/badge/Python-3.x-3776ab?style=flat-square&logo=python&logoColor=ffdd54). I like turning raw biological data into something a model can chew on—mostly for fun, always for learning.
 
